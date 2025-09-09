@@ -54,7 +54,7 @@ Amaç, elektrikli aracın tüm alt sistemlerini yönetmek, güvenli sürüşü s
 
 ---
 
-## 🔌 Donanım Entegrasyonları
+## Donanım Entegrasyonları
 
 | Alt Sistem       | Haberleşme | Açıklama                      |
 |------------------|------------|-------------------------------|
